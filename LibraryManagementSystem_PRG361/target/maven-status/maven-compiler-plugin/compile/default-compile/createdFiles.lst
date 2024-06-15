@@ -1,0 +1,14 @@
+GUI$1.class
+com\library\db\DatabaseConnection.class
+com\library\gui\BorrowerManagementFrame.class
+com\library\gui\MainDashboard$1.class
+com\library\entities\Book.class
+GUI.class
+com\library\dao\BorrowerDAO.class
+com\library\gui\MainDashboard$2.class
+com\library\gui\MainDashboard.class
+com\library\entities\Borrower.class
+com\library\dao\BookDAO.class
+com\library\gui\MainDashboard$3.class
+com\library\entities\Author.class
+com\library\gui\BookManagementFrame.class
